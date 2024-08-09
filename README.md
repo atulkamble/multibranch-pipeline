@@ -1,9 +1,12 @@
-# multibranch-pipeline
-multibranch-pipeline
+### multibranch-pipeline
 
-// Multibranch Pipeline
+### Clone this Repository
+```
+git clone
+cd 
+```
 
-
+Steps to follow
 
 1. Create public repo
 2. copy link of it
