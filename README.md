@@ -11,7 +11,7 @@ Steps to follow
 1. Create public repo
 2. copy link of it
 example: https://github.com/atulkamble/multibranch-pipeline.git
-3. >> Jenkins server >> New Item >> Multibranch Pipeline
+3. Jenkins server >> New Item >> Multibranch Pipeline
 scm >> git >> pasted github repo link 
 example: https://github.com/atulkamble/multibranch-pipeline.git
 create 
