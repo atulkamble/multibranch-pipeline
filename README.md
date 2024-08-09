@@ -40,21 +40,25 @@ pipeline {
             }
         }
     }
-}```
-
+}
+```
+```
 git add .
 git commit -m "code"
 git push origin main
-
-5)
-git checkout 
-// * crosscheck current branch as new
+```
+5. ```
+   git checkout
+   ```
+6. // * crosscheck current branch as new
+```
 git checkout -b new 
+```
 // Update Readme file
+```
 git add .
 git commit -m "updated readme"
 git push --set-upstream origin new
-
-6) Crosscheck branches on Jenkins Server
-
-scan multibranch-pipeline
+```
+7. Crosscheck branches on Jenkins Server
+8. Scan multibranch-pipeline
